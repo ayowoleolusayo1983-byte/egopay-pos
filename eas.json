@@ -16,7 +16,9 @@
         "buildType": "apk"
       },
       "env": {
-        "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
+        "NPM_CONFIG_LEGACY_PEER_DEPS": "true",
+        "EXPO_PUBLIC_SUPABASE_URL": "https://thmhggewlklgrnhuxthi.supabase.co",
+        "EXPO_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRobWhnZ2V3bGtsZ3JuaHV4dGhpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIwNDg4MzksImV4cCI6MjA4NzYyNDgzOX0.PiZgKlUCOpiRPkJ9S74RQyPzATVLc4n8E2tWCb1Bt5s"
       }
     },
     "production": {
