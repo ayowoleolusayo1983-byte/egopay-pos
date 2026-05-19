@@ -7,7 +7,6 @@
     "icon": "./assets/images/icon.png",
     "scheme": "egopay-pos",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
     "splash": {
       "image": "./assets/images/icon.png",
       "resizeMode": "contain",
@@ -24,16 +23,10 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/images/icon.png"
-    },
     "plugins": [
       "expo-router",
       "expo-font"
     ],
-    "experiments": {
-      "typedRoutes": true
-    },
     "extra": {
       "eas": {
         "projectId": "d10855c3-7192-4197-876f-47ce046dbdce"
